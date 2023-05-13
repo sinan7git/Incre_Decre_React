@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Incre_Decre_React/static/css/main.8a150cfa.css",
+    "main.js": "/Incre_Decre_React/static/js/main.e8a692ea.js",
+    "index.html": "/Incre_Decre_React/index.html",
+    "main.8a150cfa.css.map": "/Incre_Decre_React/static/css/main.8a150cfa.css.map",
+    "main.e8a692ea.js.map": "/Incre_Decre_React/static/js/main.e8a692ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a150cfa.css",
+    "static/js/main.e8a692ea.js"
+  ]
+}
